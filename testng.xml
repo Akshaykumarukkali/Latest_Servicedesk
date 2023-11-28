@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="Settings.Settingstestscripts"/>
+      <class name="Suspence_Tickets.Suspence_Testcases"/>
+      <class name="My_Watchlist.My_Watchlist"/>
+      <class name="MyTickets.MyTicketstestcase"/>
+      <class name="SystemTickets.System_Testcases"/>
+      <class name="Timelog.timelogTestcases"/>
+      <class name="Partnertickets.Partnertestcases"/>
+      <class name="Dashboard.Dashboard"/>
+      <class name="All_Departments.All_Department"/>
+      <class name="Requestertickets.requestertktstestcase"/>
+      <class name="Task.tasksTestcases"/>
+      <class name="My_Department.My_Department"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

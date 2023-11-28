@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Default suite]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="All_Departments.All_Department">
+        <methods>
+          <include name="closetheapp"/>
+          <include name="All_Departments__072"/>
+          <include name="All_Departments__141"/>
+          <include name="Cpabilties"/>
+        </methods>
+      </class> <!-- All_Departments.All_Department -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->
